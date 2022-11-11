@@ -1,4 +1,5 @@
 // const LOGIN_URL = "login.html";
+console.log("teste");
 const LOGIN_URL = "index.html";
 
 var db_usuarios = {};
